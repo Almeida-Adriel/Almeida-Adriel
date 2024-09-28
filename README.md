@@ -35,4 +35,15 @@
   </p>
 </details>
 <br>
-![snake animation](https://github.com/Almeida-Adriel/Almeida-Adriel/blob/output/github-contribution-grid-snake2.svg)
+<h2 align="center">Formas de contato</h2>
+<div align="center">
+    <a href="https://www.linkedin.com/in/adriel-leite-7b7941269" target="_blank">
+        <img alt="logo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/almeida.adriel/" target="_blank">
+        <img alt="logo-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+     <a href="adrielalmeida.diel@gmail.com" target="_blank">
+        <img alt="logo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</div>
