@@ -1,4 +1,4 @@
-<h1 align="center">Hello Word!</h1>
+<h1 align="center">Hello World!</h1>
 
 - 🔭 Atualamente trabalho na empresa Atuarial Consultoria como estagiário
 - 📚 Javascript e React é o que estou estudando no momento
