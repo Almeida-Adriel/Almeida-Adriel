@@ -35,7 +35,7 @@
     <a href="https://www.instagram.com/almeida.adriel/" target="_blank">
         <img alt="logo-insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-     <a href="adrielalmeida.diel@gmail.com" target="_blank">
+     <a href="mailto:adrielalmeida.diel@gmail.com" target="_blank">
         <img alt="logo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
