@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!</h1>
 
-- 🔭 Atualamente trabalho na empresa Atuarial Consultoria como estagiário
+- 🔭 Atualmente trabalho na empresa Atuarial Consultoria como estagiário
 - 📚 Javascript e React é o que estou estudando no momento
     
 <details>
@@ -27,14 +27,6 @@
   <img alt="logo-python" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-<details>
-  <summary>Experiência profissional</summary>
-  <p>
-    Implementei um sistema de análise de dados em Python, com base na biblioteca Pandas, que agiliza significativamente a identificação e correção de inconsistências em bases de dados        complexas. Os resultados são apresentados em relatórios HTML intuitivos, direcionados ao RPPS. Essa ferramenta visa facilitar e agilizar o processo de validação das informações, além
-    de ter uma interface gráfica intuitiva para o usuário escolher qual munucípio e empresa que ele quer gerar o relatório.
-  </p>
-</details>
-<br>
 <h2 align="center">Formas de contato</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/adriel-leite-7b7941269" target="_blank">
