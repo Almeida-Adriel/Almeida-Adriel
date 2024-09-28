@@ -34,3 +34,5 @@
     de ter uma interface gráfica intuitiva para o usuário escolher qual munucípio e empresa que ele quer gerar o relatório.
   </p>
 </details>
+<br>
+![snake animation](https://github.com/Almeida-Adriel/Almeida-Adriel/blob/output/github-contribution-grid-snake2.svg)
