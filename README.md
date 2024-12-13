@@ -1,13 +1,13 @@
 <h1 align="center">Hello World!</h1>
 
-- 🔭 Atualmente trabalho na empresa Atuarial Consultoria como estagiário
-- 📚 Javascript e React é o que estou estudando no momento
+- 🔭 Atualmente trabalho na empresa tav web como trainee
+- 📚 langchain, langflow e vector database é o que estou estudando no momento
     
 <details>
   <summary>Um pouco sobre mim</summary>
   <p>
-    Sou estudante de análise e desenvolvimento de sistemas, atualmente no 4° semestre.
-    Estou focado em frameworks e linguagens de front-end, com objetivo de me tornar um especilista em react.
+    Sou estudante de análise e desenvolvimento de sistemas, atualmente no 5° semestre. 
+    Estou focado em frameworks voltados para área de IA, com objetivo de me tornar um especilista na área.
   </p>
 </details>
 <br>
