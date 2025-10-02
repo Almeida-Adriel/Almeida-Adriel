@@ -1,13 +1,13 @@
 <h1 align="center">Hello World!</h1>
 
 - 🔭 Atualmente trabalho na empresa Atuarial
-- 📚 langchain, react e next é o que estou estudando no momento
+- 📚 react e testes unitários com jest e testing libary é o que estou estudando no momento
     
 <details>
   <summary>Um pouco sobre mim</summary>
   <p>
-    Sou estudante de análise e desenvolvimento de sistemas, atualmente no 5° semestre. 
-    Estou focado em frameworks voltados para área de IA e front-end.
+    Sou formado em análise e desenvolvimento de sistemas. 
+    Estou focado em frameworks voltados para área de front-end.
   </p>
 </details>
 <br>
