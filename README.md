@@ -1,13 +1,13 @@
 <h1 align="center">Hello World!</h1>
 
 - 🔭 Atualmente trabalho na empresa Atuarial
-- 📚 react e testes unitários com jest e testing libary é o que estou estudando no momento
+- 📚 ETL é o que estou estudando no momento
     
 <details>
   <summary>Um pouco sobre mim</summary>
   <p>
     Sou formado em análise e desenvolvimento de sistemas. 
-    Estou focado em frameworks voltados para área de front-end.
+    Estou focado em frameworks voltados para área de dados.
   </p>
 </details>
 <br>
