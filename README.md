@@ -1,63 +1,64 @@
 <h1 align="center">Adriel Almeida Pereira Leite</h1>
 
 <p align="center">
-  <strong>Engenheiro de Dados | Desenvolvedor de Software</strong><br>
-  Formado em Análise e Desenvolvimento de Sistemas — UNIVAG
+  <strong>Engenheiro de Dados · Desenvolvedor de Software</strong><br>
+  Análise e Desenvolvimento de Sistemas — UNIVAG
 </p>
 
-- **Atuação Profissional:** Atuo na modernização de processos na Atuarial, sendo responsável pela migração de arquiteturas legadas e fluxos operacionais complexos baseados em planilhas para sistemas web centralizados e escaláveis.
-- **Área de Foco:** Engenharia de Dados, modelagem de banco de dados e desenvolvimento de pipelines de ETL.
-- **Aprimoramento Técnico:** Estudo continuado em frameworks e ferramentas avançadas para ecossistemas de processamento e governança de dados.
+<p align="center">
+  <a href="https://www.linkedin.com/in/adriel-leite-7b7941269" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adrielleite909@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Sobre
+
+Engenheiro de Dados com experiência na intersecção entre desenvolvimento de software e arquitetura de dados. Atuo na modernização de processos na área Atuarial, conduzindo a migração de arquiteturas legadas e fluxos baseados em planilhas para sistemas web centralizados e escaláveis.
+
+Tenho foco em **pipelines de ETL/ELT**, **modelagem de dados** e **orquestração de workflows**.
 
 <details>
-  <summary>Sumário Profissional</summary>
+  <summary> Sumário profissional</summary>
+  <br>
   <p>
-    Profissional com sólida vivência na intersecção entre o desenvolvimento de software web e a engenharia de dados. Especialista na transformação de processos manuais e descentralizados em soluções automatizadas e de alta usabilidade.
+    Profissional com vivência sólida na intersecção entre engenharia de software e engenharia de dados. Especialista na transformação de processos manuais e descentralizados em soluções automatizadas e de alta usabilidade.
   </p>
   <p>
-    Experiência no desenvolvimento de interfaces responsivas e escaláveis utilizando React, integração de APIs e aplicação de inteligência artificial em projetos dinâmicos. Atualmente, aplico essa bagagem de engenharia de software no tratamento, cruzamento e validação de dados complexos com foco em eficiência e integridade corporativa.
+    Experiência no desenvolvimento de interfaces responsivas com React, integração de APIs RESTful e aplicação de inteligência artificial em projetos dinâmicos. Atualmente, aplico essa bagagem no tratamento, cruzamento e validação de dados complexos com foco em eficiência e integridade corporativa.
   </p>
 </details>
 
-<br>
+---
+
+## Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Almeida-Adriel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almeida-Adriel&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/Almeida-Adriel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeida-Adriel&layout=compact&langs_count=8&theme=dark" />
-  </a>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Almeida-Adriel&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeida-Adriel&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </div>
 
-<br>
+---
 
-<h3 align="center">Competências Técnicas e Ferramentas</h3>
+## Stack Técnica
 
-<div align="center">
-  <!-- Engenharia de Dados, Orquestração e Transformação -->
-  <img alt="Python" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="SQL" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="dbt" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" />
-  <img alt="Pandas" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img alt="Apache Airflow" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
-  
-  <!-- Desenvolvimento Web e Frameworks -->
-  <img alt="React" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="JavaScript" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img alt="HTML5" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-  <img alt="CSS3" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-  <img alt="Bootstrap" height="40em" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<h4>Engenharia de Dados</h4>
+<div>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </div>
-
-<br>
-
-<h2 align="center">Contato e Conexões Profissionais</h2>
-<div align="center">
-    <a href="https://www.linkedin.com/in/adriel-leite-7b7941269" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:adrielleite909@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
+<h4>Desenvolvimento Web</h4>
+<div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
