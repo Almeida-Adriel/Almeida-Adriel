@@ -29,7 +29,7 @@ Tenho foco em **pipelines de ETL/ELT**, **modelagem de dados** e **orquestraçã
     Profissional com vivência na intersecção entre engenharia de software e engenharia de dados. Especialista na transformação de processos manuais e descentralizados em soluções automatizadas e de alta usabilidade.
   </p>
   <p>
-    Experiência no desenvolvimento de interfaces responsivas com React, integração de APIs RESTful e aplicação de inteligência artificial em projetos dinâmicos. Atualmente, aplico essa bagagem no tratamento, cruzamento e validação de dados complexos com foco em eficiência e integridade corporativa.
+    Experiência no desenvolvimento de interfaces responsivas com React, integração de APIs RESTful e aplicação de inteligência artificial em projetos dinâmicos. Atualmente, aplico essa bagagem no tratamento, cruzamento e validação de dados com foco em eficiência e integridade corporativa.
   </p>
 </details>
 
